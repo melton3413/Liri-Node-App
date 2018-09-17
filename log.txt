@@ -1,0 +1,274 @@
+
+---------------------------------------------------
+
+Date: 09/17/2018
+Name: Tabernacle
+City: Atlanta
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/19/2018
+Name: The Theater at MGM National Harbor
+City: Oxon Hill
+Country: MD
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/20/2018
+Name: The Fillmore - Philadelphia
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/21/2018
+Name: Borgata Event Center
+City: Atlantic City
+Country: NJ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/22/2018
+Name: Louisville Champions Park
+City: Louisville
+Country: KY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/23/2018
+Name: Louisville Champions Park
+City: Louisville
+Country: KY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/25/2018
+Name: House Of Blues Boston
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/26/2018
+Name: The Rooftop at Pier 17
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/28/2018
+Name: Phoenix Concert Theatre
+City: Toronto
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/30/2018
+Name: Armory
+City: Minneapolis
+Country: MN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/01/2018
+Name: The Pageant
+City: St Louis
+Country: MO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/02/2018
+Name: Aragon Ballroom
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/04/2018
+Name: Arvest Bank Theatre At the Midland
+City: Kansas City
+Country: MO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/05/2018
+Name: Fillmore Auditorium
+City: Denver
+Country: CO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/08/2018
+Name: The Masonic
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/09/2018
+Name: Santa Barbara Bowl
+City: Santa Barbara
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/10/2018
+Name: The Van Buren
+City: Phoenix
+Country: AZ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/12/2018
+Name: Agua Caliente Casino Resort & Spa
+City: Rancho Mirage
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/13/2018
+Name: Monte Carlo Hotel And Casino
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/15/2018
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/16/2018
+Name: Harrahs Resort SoCal The Events Center
+City: Valley Center
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/16/2018
+Name: Forum Karlín
+City: Praha
+Country: Czech Republic
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: The Police
+Song: Roxanne - Remastered 2003
+Preview: null
+Album: Outlandos D'Amour
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: Dune
+Release Year: 1984
+IMDB Rating: 6.6
+Rotten Tomatoes Rating: 55%
+Country: USA, Mexico
+Language: English
+Plot: A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis when they assassinate his father and free their desert world from the emperor's rule.
+Actors: Francesca Annis, Leonardo Cimino, Brad Dourif, José Ferrer
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=132fbc7848674ceea8dbfaaa42824200
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
